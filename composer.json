@@ -43,11 +43,5 @@
     "config": {
         "sort-packages": true,
         "bin-dir": "bin"
-    },
-    "repositories": [ 
-      {
-        "type": "path",
-        "url": "https://github.com/timvandenhende/my-mailjet"
-      }
-    ]
+    }
 }
